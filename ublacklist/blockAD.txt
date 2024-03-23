@@ -5145,7 +5145,7 @@
 *://*.rnwgj.com/*
 *://*.rnx8.cn/*
 *://*.ro5bgz2.cn/*
-*://*.robbceleb.buzz/*
+*://*.roeleb.buzz/*
 *://*.robco-enterprises.buzz/*
 *://*.robertjutras.buzz/*
 *://*.rocksearch.cc/*
@@ -10252,7 +10252,6 @@
 *://www.thegldshop.com/*
 *://www.lovingessentialoils.com/*
 *://www.botanicasanmiguellj.com/*
-*://www.bbc.com/*
 *://shopee.com.br/*
 *://panzarotti.it/*
 *://qcafe.it/*
